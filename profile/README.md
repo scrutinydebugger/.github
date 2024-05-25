@@ -10,10 +10,10 @@
   2. The CLI and the postbuild tools
   3. The Python SDK client
 
-- **scrutiny-embedded** : The C++ instrumentation library meant to eb included in your firmware
+- **scrutiny-embedded** : The C++ instrumentation library meant to be included in your firmware
 - **scrutiny-gui** : A work-in-progress GUI client.
-- **scrutiny-demos** : A collection of example projects that uses scrutiny
-- **scrutiny-devtools** : Some internal tools used for the development of scrutiny
+- **scrutiny-demos** : A collection of example projects that use Scrutiny
+- **scrutiny-devtools** : Some internal tools used for the development of Scrutiny
 - **scrutiny-website** : The source code of scrutinydebugger.com 
 
 ## Architecture
