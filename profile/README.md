@@ -18,5 +18,5 @@
 
 ## Architecture
 
-<img src="assets/global_architecture.png" alt="Scrutiny architecture" width="800"/>
+<img src="/profile/assets/global_architecture.png" alt="Scrutiny architecture" width="800"/>
 
