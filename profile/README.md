@@ -9,9 +9,9 @@
   1. Scrutiny server
   2. The CLI and the postbuild tools
   3. The Python SDK client
+  4. A work in progress QT GUI based on PyQT5
 
 - **scrutiny-embedded** : The C++ instrumentation library meant to be included in your firmware
-- **scrutiny-gui** : A work-in-progress GUI client.
 - **scrutiny-demos** : A collection of example projects that use Scrutiny
 - **scrutiny-devtools** : Some internal tools used for the development of Scrutiny
 - **scrutiny-website** : The source code of scrutinydebugger.com 
