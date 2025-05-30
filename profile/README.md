@@ -5,11 +5,11 @@
 
 ## Repos
 
-- **scrutiny-python** : Python package including :
+- **scrutiny-main** : Python package including :
   1. Scrutiny server
   2. The CLI and the postbuild tools
   3. The Python SDK client
-  4. A work in progress QT GUI based on PySide6
+  4. A QT GUI based on PySide6
 
 - **scrutiny-embedded** : The C++ instrumentation library meant to be included in your firmware
 - **scrutiny-demos** : A collection of example projects that use Scrutiny
