@@ -8,13 +8,12 @@
 - **scrutiny-main** : Python package including :
   1. Scrutiny server
   2. The CLI and the postbuild tools
-  3. The Python SDK client
-  4. A QT GUI based on PySide6
+  3. The Python SDK
+  4. A GUI based on QT/PySide6
 
 - **scrutiny-embedded** : The C++ instrumentation library meant to be included in your firmware
 - **scrutiny-demos** : A collection of example projects that use Scrutiny
 - **scrutiny-devtools** : Some internal tools used for the development of Scrutiny
-- **scrutiny-website** : The source code of scrutinydebugger.com 
 
 ## Architecture
 
