@@ -15,6 +15,10 @@
 - **scrutiny-demos** : A collection of example projects that use Scrutiny
 - **scrutiny-devtools** : Some internal tools used for the development of Scrutiny
 
+## Demo
+
+<img src="/profile/assets/demo.gif" alt="Scrutiny GUI demo" width="800"/>
+
 ## Architecture
 
 <img src="/profile/assets/global_architecture.png" alt="Scrutiny architecture" width="800"/>
